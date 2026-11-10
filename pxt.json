@@ -1,0 +1,14 @@
+
+{
+    "name": "microos",
+    "version": "0.1.0",
+    "description": "A mini operating system for the BBC micro:bit",
+    "dependencies": {
+        "core": "*",
+        "microbit": "*"
+    },
+    "files": [
+        "main.ts"
+    ],
+    "public": true
+}
